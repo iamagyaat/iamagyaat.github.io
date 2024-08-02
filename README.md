@@ -19,25 +19,19 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing vCard
+## Installing git
 
-To install **vCard**, follow these steps:
+To install git in your macOS, follow these [link](https://git-scm.com/download/mac). 
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+sudo git clone https://github.com/iamagyaat/iamagyaat.github.io.git
 ```
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at [Twitter](https://x.com/hack3rp0s3).
 
 ## License
 

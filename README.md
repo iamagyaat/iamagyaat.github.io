@@ -11,7 +11,7 @@ agyaat is a fully responsive personal portfolio website designed to work seamles
 ## Cyber Security
 
 ![vCard Poster Demo](./website-demo-image/poster.png "Poster Demo")
-![vCard Poster Demo](./website-demo-image/poster.png "Poster Demo")
+
 
 ## Prerequisites
 

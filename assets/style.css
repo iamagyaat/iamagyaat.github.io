@@ -3,7 +3,7 @@
 :root {
   --bg-body: hsl(36, 100%, 1%);
   --bg-body2: hsl(0, 0%, 53%);
-  --accent: hsl(71, 84%, 49%);
+  --accent: #bfe614;
   --text1: rgb(255, 255, 255);
   --text2: hsl(0, 0%, 100%);
   --invalid: hsl(7, 100%, 68%);

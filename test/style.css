@@ -4,10 +4,10 @@
     left: 0;
     width: 100vw;
     height: 100vh;
-    display: flex;
+    display: fixed;
     justify-content: center;
     align-items: center;
-    background-color: #f4f6f4;
+    background-color: #f7f9fb;
     transition: opacity 0.75s, visibility 0.75s;
   }
 
@@ -33,4 +33,18 @@
     to{
       transform: rotate(1turn);
     }
+  }
+
+  .preloader{
+    background: #000 url(/assets/images/preloader.gif);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: fixed;
+    justify-content: center;
+    align-items: center;
+    background-color: #f7f9fb;
+    transition: opacity 0.75s, visibility 0.75s;
   }

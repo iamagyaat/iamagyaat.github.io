@@ -31,7 +31,7 @@ sudo git clone https://github.com/iamagyaat/iamagyaat.github.io.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://x.com/hack3rp0s3).
+If you want to contact me you can reach me at [Twitter](https://x.com/souravinfosec).
 
 ## License
 
